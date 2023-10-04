@@ -1,0 +1,16 @@
+C:\Users\yuto\Documents\学習関連\C#\DB接続（整理用）\LocalDBTest_work\LocalDBTest_work\bin\Debug\ServiceDB.mdf
+C:\Users\yuto\Documents\学習関連\C#\DB接続（整理用）\LocalDBTest_work\LocalDBTest_work\bin\Debug\ServiceDB_log.ldf
+C:\Users\yuto\Documents\学習関連\C#\DB接続（整理用）\LocalDBTest_work\LocalDBTest_work\bin\Debug\LocalDBTest_work.exe.config
+C:\Users\yuto\Documents\学習関連\C#\DB接続（整理用）\LocalDBTest_work\LocalDBTest_work\bin\Debug\LocalDBTest_work.exe
+C:\Users\yuto\Documents\学習関連\C#\DB接続（整理用）\LocalDBTest_work\LocalDBTest_work\bin\Debug\LocalDBTest_work.pdb
+C:\Users\yuto\Documents\学習関連\C#\DB接続（整理用）\LocalDBTest_work\LocalDBTest_work\obj\Debug\LocalDBTest_work.csproj.AssemblyReference.cache
+C:\Users\yuto\Documents\学習関連\C#\DB接続（整理用）\LocalDBTest_work\LocalDBTest_work\obj\Debug\LocalDBTest_work.Form1.resources
+C:\Users\yuto\Documents\学習関連\C#\DB接続（整理用）\LocalDBTest_work\LocalDBTest_work\obj\Debug\LocalDBTest_work.Properties.Resources.resources
+C:\Users\yuto\Documents\学習関連\C#\DB接続（整理用）\LocalDBTest_work\LocalDBTest_work\obj\Debug\LocalDBTest_work.csproj.GenerateResource.cache
+C:\Users\yuto\Documents\学習関連\C#\DB接続（整理用）\LocalDBTest_work\LocalDBTest_work\obj\Debug\LocalDBTest_work.csproj.CoreCompileInputs.cache
+C:\Users\yuto\Documents\学習関連\C#\DB接続（整理用）\LocalDBTest_work\LocalDBTest_work\obj\Debug\LocalDBTest_work.exe
+C:\Users\yuto\Documents\学習関連\C#\DB接続（整理用）\LocalDBTest_work\LocalDBTest_work\obj\Debug\LocalDBTest_work.pdb
+C:\Users\yuto\Documents\学習関連\C#\DB接続（整理用）\LocalDBTest_work\LocalDBTest_work\bin\Debug\ServiceDB2.mdf
+C:\Users\yuto\Documents\学習関連\C#\DB接続（整理用）\LocalDBTest_work\LocalDBTest_work\bin\Debug\ServiceDB2_log.ldf
+C:\Users\yuto\Documents\学習関連\C#\DB接続（整理用）\LocalDBTest_work\LocalDBTest_work\obj\Debug\LocalDBTest_work.Form2.resources
+C:\Users\yuto\Documents\学習関連\C#\DB接続（整理用）\LocalDBTest_work\LocalDBTest_work\obj\Debug\LocalDBTest_work.Form3.resources
