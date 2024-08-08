@@ -31,6 +31,10 @@ DB名：SQLServerDB
 ①作成時にサーバーを指定して、DB名を付ける
 ②DB接続にはInitialCatalogを使う
 
+■データセット（Form4）
+追加方法：ツールボックス → DataSetダブルクリック → 型指定されたデータセットをオンにしてOK
+          ツールボックス → BindingSourceダブルクリック → プロパティ → DataSource：↑で作成したDataSet、DataMember：対象のテーブル名
+          DataGridViewを追加して、DataSourceにBindingSourceをセットする
 
 
 Form2でやったデータセットと、Form3でやったSQL Serverデータベースは、ローカルサーバー上にDBが作られている（sys.databasesを確認済み）
